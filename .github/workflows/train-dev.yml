@@ -27,7 +27,7 @@ jobs:
         uses: azure/login@v1
         with:
           creds: >-
-            {"clientId":"370d1aad-1ee1-443a-8bcb-a957217796af","clientSecret":"sVb8Q~9Fu1kmKITych25F7PpuAaoJNQ0tuF8_bmC","tenantId":"e9319a1c-b697-4b90-8484-f71a13e9cf4c","subscriptionId":"678d6140-b1ed-498d-91ee-a2732bde6a75"}
+            {"clientId":"370d1aad-1ee1-443a-8bcb-a957217796af","clientSecret":"sVb8Q~9Fu1kmKITych25F7PpuAaoJNQ0tuF8_bmC","tenantId":"e9319a1c-b697-4b90-8484-f71a13e9cf4c","subscriptionId":"678D6140-B1ED-498D-91EE-A2732BDE6A75"}
 
 
       - name: Install Azure ML CLI
